@@ -1,4 +1,4 @@
-Social Media Sentiment Analysis using NLP
+#Social Media Sentiment Analysis using NLP
 # Project Overview
 
 This project analyzes Reddit posts related to artists to understand public sentiment. Using Natural Language Processing (NLP) techniques and the VADER sentiment analyzer, each post is classified into Positive, Neutral, or Negative sentiment categories. The analysis helps artists, brands, and content creators understand audience engagement, feedback patterns, and public perception.
